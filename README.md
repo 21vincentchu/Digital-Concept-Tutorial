@@ -8,28 +8,28 @@ Target Audience: This is for beginning coders who have started out coding in C# 
 
 
 ### Step 1: 
- We need to create a class called Person.The class will be a blueprint to creating our person object. 
+We need to create a class called Person. The class will be a blueprint to creating our person object. 
                   
 ### Step 2: 
- We need to declare fields. These are variables that are UNIQUE to the object and to the class. This will include name, height, and gender. All being of type string
+We need to declare fields. These are variables that are UNIQUE to the object and to the class. 
  
 ### Step 3:
 after declaring feilds, we declare our constructor. This will BUILD the object for us with all the field a person should have. 
 
 ### Step 3A:
-We name the constructor the same as our file name. so it will be public Person. After we have arguments. It will take in three. Name, height, gender. All of type String
+We name the constructor the same as our file name. so it will be public Person.
 
 ### Step 3B: 
 We assign the argument variable names, to the field names we made. 
 
 ### Step 4:
-We go back to our main, make variables for our person object have themn assigned to something
+We go back to our main, make variables for our person object
 
 ### Step 4A: 
-We call the Person class to make the person object. We do this by using the keyword new. we also send in arguments to create the object
+We call the Person class to make the person object. We do this by using the keyword new.
 
 ### Step 5:
- We have finished! You have learned how to create a simple person object in C#
+We have finished! You have learned how to create a simple person object in C#
 
 
 ```
