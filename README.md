@@ -11,7 +11,7 @@ Target Audience: This is for beginning coders who have started out coding in C# 
          Step 1A: We need to create a class called Person. We can call this class anything we want, but ideally, it should relate to what we are making.
                   - The class will be a blueprint to creating our person object. 
                   
-         Step 2A: We need to declare fields. These are variables that are UNIQUE to the object and to the class. This will include name, height, and                         gender. All being of type string
+###Step 2A: We need to declare fields. These are variables that are UNIQUE to the object and to the class. This will include name, height, and                         gender. All being of type string
 
 ```
 class Program
