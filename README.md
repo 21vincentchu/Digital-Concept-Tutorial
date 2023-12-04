@@ -62,7 +62,7 @@ class Program
         string height ="5'8";
         string gender = "male";
 
-        //We create the object, by calling the person class, followed by variable name, the new keyword to create object. then we call constructor               person. In parenthesis, we have the arguments necessary for the constructor to make our person object.
+        //We create the object, by calling the person class, followed by variable name, the new keyword to create object. then we call constructor person. In parenthesis, we have the arguments necessary for the constructor to make our person object.
 
         //Step 4A
         Person vincent = new Person(name, height, gender);
